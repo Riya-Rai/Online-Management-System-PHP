@@ -195,12 +195,12 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="#" width=100 height=100 alt="Mahendra Pratap Singh" class="img-rounded">
+		 <img src="image/PP.jpeg" width=100 height=100 alt="Riya Rai" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://mahendra.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">mahendrapratapsingh084</a>
+		<a href="http://riya.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on LinkedIn">RiyaRai2529</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1"></h4>
-		<h4 style="font-family:'typo' ">mahendrapratapsingh084@gmail.com</h4>
+		<h4 style="font-family:'typo' ">riya20rai@gmail.com</h4>
 		<h4 style="font-family:'typo' ">LPU</h4></div></div>
 		</p>
       </div>
