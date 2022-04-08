@@ -79,7 +79,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 </div><!--header row closed-->
 </div>
 
-<div class="bg1">
+<div class="bg1" >
 <div class="row">
 
 <div class="col-md-7"></div>
@@ -173,35 +173,35 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <!--Footer start-->
 <div class="row footer">
 <div class="col-md-3 box">
-<a href="http://www.projectworlds/online-examination" target="_blank">About us</a>
+<a href="Aboutus.php" target="_blank">About us</a>
 </div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#developers">Developers</a>
 </div>
-<div class="col-md-3 box">
-<a href="feedback.php" target="_blank">Feedback</a></div></div>
+<!--<div class="col-md-3 box">-->
+<!--<a href="feedback.php" target="_blank">Feedback</a></div></div>-->
 <!-- Modal For Developers-->
 <div class="modal fade title1" id="developers">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" style="font-family:'typo' "><span style="color:orange">Developers</span></h4>
+        <h4 class="modal-title" style="font-family:'typo' "><span style="color:orange">Developers Details </span></h4>
       </div>
 	  
       <div class="modal-body">
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/PP.jpeg" width=100 height=100 alt="Riya Rai" class="img-rounded">
+		 <img src="#" width=100 height=100 alt="Harsh Medhavi" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://riya.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on LinkedIn">RiyaRai2529</a>
+		<a href="http://mahendra.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Harsh Medhavi</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1"></h4>
-		<h4 style="font-family:'typo' ">riya20rai@gmail.com</h4>
-		<h4 style="font-family:'typo' ">LPU</h4></div></div>
+		<h4 style="font-family:'typo' ">harshmedhavi@gmail.com</h4>
+		<h4 style="font-family:'typo' ">Lovely Professional University</h4></div></div>
 		</p>
       </div>
     

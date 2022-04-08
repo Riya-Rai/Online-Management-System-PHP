@@ -14,8 +14,8 @@ if($count==1){
 session_start();
 if(isset($_SESSION['email'])){
 session_unset();}
-$_SESSION["name"] = 'Admin';
-$_SESSION["key"] ='123456';
+$_SESSION["name"] = 'admin@admin.com';
+$_SESSION["key"] ='admin';
 $_SESSION["email"] = $email;
 header("location:dash.php?q=0");
 }
